@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
 <h3 align="center">An amazing programmer/genius</h3>
+<p align="center">
+
+<img src="https://i.pinimg.com/originals/b7/1d/20/b71d20021459cc2436347432410bbf6f.gif" />
+
+</p>
 
 - 📫 How to reach me **donotreachme@dont.com**
-<img src="https://i.pinimg.com/originals/b7/1d/20/b71d20021459cc2436347432410bbf6f.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
